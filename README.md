@@ -24,5 +24,5 @@ While the project was a team effort, I served as the **Core Logic & Data Enginee
 This logic provides the foundational framework for my ongoing **Independent Research** on **Sinkhole Early Warning Systems**, where I am integrating **Deep Learning (LSTM/GRU)** to extend prediction horizons to a 3-month sub-seasonal scale.
 
 ---
-*Credits: My primary focus was on Core Logic & Data Engineering. Special thanks to my teammates for their contributions to UI/UX and Graphic Design.*
+*Credits: My primary focus was on Core Logic & Data Engineering. Special thanks to my teammates for their contributions to UI/UX and Graphic Design.
 *Live demo available at: [[Link](https://akin-yr.github.io/ContinuedFlow/)]*
