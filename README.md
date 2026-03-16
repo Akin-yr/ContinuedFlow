@@ -1,4 +1,4 @@
-# ContinuedFlow | NASA Space Apps Challenge 2025
+# Flow | NASA Space Apps Challenge 2025
 **A Data-Driven Weather Intelligence Engine for High-Resolution Hazard Monitoring.**
 
 ---
