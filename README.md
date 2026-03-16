@@ -1,10 +1,10 @@
-# ContinuedFlow | NASA Space Apps Challenge 2024
+# ContinuedFlow | NASA Space Apps Challenge 2025
 **A Data-Driven Weather Intelligence Engine for High-Resolution Hazard Monitoring.**
 
 ---
 
 ## 🏆 Achievement
-* **Top 10 Finalist (Local Lead)** - NASA Space Apps Challenge 2024.
+* **Top 10 Finalist (Local Lead)** - NASA Space Apps Challenge 2025.
 
 ## ⚙️ Core Technical Contribution (My Primary Role)
 While the project was a team effort, I served as the **Core Logic & Data Engineer**, architecting the system's "brain" (`script.js`) to handle complex environmental telemetry.
